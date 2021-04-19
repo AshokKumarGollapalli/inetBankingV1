@@ -1,2 +1,2 @@
-
+my text file first line added
 changed in eclipse
